@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Figma Prototype 
+https://www.figma.com/file/FEGUaJRNiKJpFJ63Tmm9A2/Untitled?node-id=0%3A1
 
 ## Available Scripts
 
